@@ -1,5 +1,9 @@
 # RAG
 
+===============================================================
+https://github.com/PacktPublishing/LLM-Engineers-Handbook/tree/main
+==============================================================
+
 https://github.com/jamwithai/arxiv-paper-curator
 
 https://github.com/NirDiamant/agents-towards-production
