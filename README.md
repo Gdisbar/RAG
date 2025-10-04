@@ -1,9 +1,5 @@
 # RAG
 
-===============================================================
-https://github.com/PacktPublishing/LLM-Engineers-Handbook/tree/main
-==============================================================
-
 [End-End Research Agent] (https://github.com/jamwithai/arxiv-paper-curator)
 
 [AI-Bank Statement RAG] (https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction)
