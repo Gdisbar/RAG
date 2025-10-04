@@ -1,10 +1,10 @@
 # RAG
 
-[End-End Research Agent] (https://github.com/jamwithai/arxiv-paper-curator)
+[End-End Research Agent](https://github.com/jamwithai/arxiv-paper-curator)
 
-[AI-Bank Statement RAG] (https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction)
+[AI-Bank Statement RAG](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction)
 
-[ML case studies] (https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
+[ML case studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
 
 [Claud Cookbook](https://github.com/anthropics/claude-cookbooks)
 
