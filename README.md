@@ -14,6 +14,8 @@
 
 [Coding Crash Course](https://www.youtube.com/watch?v=yRicPGSGuZE)
 
+[Chunking Strategy](https://mer.vin/2024/03/chunking-strategy/)
+
 https://github.com/NirDiamant/agents-towards-production
 
 https://github.com/NirDiamant/GenAI_Agents
