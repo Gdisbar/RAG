@@ -10,6 +10,10 @@
 
 [Coffeeshop chatbot](https://github.com/abdullahtarek/coffee_shop_customer_service_chatbot)
 
+[QA-and-RAG-Series](https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/)
+
+[Coding Crash Course](https://www.youtube.com/watch?v=yRicPGSGuZE)
+
 https://github.com/NirDiamant/agents-towards-production
 
 https://github.com/NirDiamant/GenAI_Agents
