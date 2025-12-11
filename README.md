@@ -2,6 +2,8 @@
 
 [End-End Research Agent](https://github.com/jamwithai/arxiv-paper-curator)
 
+[E2E Template](https://github.com/HeyNina101/generative_ai_project)
+
 [AI-Bank Statement RAG](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction)
 
 [ML case studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
