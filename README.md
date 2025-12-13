@@ -6,11 +6,9 @@
 
 [AI-Bank Statement RAG](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction)
 
-[ML case studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
-
 [Claud Cookbook](https://github.com/anthropics/claude-cookbooks)
 
-[Coffeeshop chatbot](https://github.com/abdullahtarek/coffee_shop_customer_service_chatbot)
+[Coffeeshop chatbot](https://www.youtube.com/watch?v=KyQKTJhSIak)
 
 [QA-and-RAG-Series](https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/)
 
