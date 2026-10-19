@@ -1,6 +1,8 @@
 
 **3. Database Architecture & Scaling**
 
+**4. Caching Strategies, Invalidation, and Distributed Cache Design**
+
 **6. Distributed Consensus, Coordination, and Quorum Systems**
 
 ---
