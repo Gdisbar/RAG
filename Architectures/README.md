@@ -1,4 +1,5 @@
 
+**6. Distributed Consensus, Coordination, and Quorum Systems**
 
 **7. Messaging & Event-Driven Architecture**
 
