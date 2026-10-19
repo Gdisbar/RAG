@@ -179,24 +179,8 @@ Genesis shifts control from interactive, manual turn-by-turn prompting to an **a
 #### Section 4: Key System Integration Mechanics
 
 | Layer | PR Review Agent Implementation | Genesis Harness Role |
-| --- | --- | --- |
-| **Ingress & Queue** | GitHub Webhooks $\rightarrow$ Redis ARQ Queue $\rightarrow$ LangGraph Orchestration.
-
- | Initializes `.genesis/` files via `G0`–`G6` setup routines.
-
- |
-| **Execution** | Parallel specialist fan-out (Security, Quality, Tests, Docs).
-
- | Drives LLMs through five execution loops using local tools.
-
- |
-| **Verification** | Aggregator calculates confidence; routes `CRITICAL` findings to HITL queue.
-
- | L4 independent Checker AI validates task outputs against `DONE.html`.
-
- |
-| **Auditability** | Unified event spine log (`agent_events` hypertable).
-
- | Tracks history via `implementation-notes.html` and `CURRENT.md`.
-
- |
+| :--- | :--- | :--- |
+| **Ingress & Queue** | GitHub Webhooks → Redis ARQ Queue → LangGraph Orchestration[cite: 1]. | Initializes `.genesis/` files via `G0`–`G6` setup routines. |
+| **Execution** | Parallel specialist fan-out (Security, Quality, Tests, Docs)[cite: 1]. | Drives LLMs through five execution loops using local tools[cite: 2]. |
+| **Verification** | Aggregator calculates confidence; routes `CRITICAL` findings to HITL queue[cite: 1]. | L4 independent Checker AI validates task outputs against `DONE.html`. |
+| **Auditability** | Unified event spine log (`agent_events` hypertable)[cite: 1, 2]. | Tracks history via `implementation-notes.html` and `CURRENT.md`[cite: 1, 2]. |
