@@ -4,4 +4,4 @@
 
 **8. Microservices Patterns**
 
-**9.Distributed Transactions & Data Consistency**
+**9. Distributed Transactions & Data Consistency**
