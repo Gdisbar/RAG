@@ -1,5 +1,8 @@
 Here are the rendered ASCII diagrams for the three Mermaid diagrams found in the document:
-1. High-Level Architecture Flowchart
+
+### 1. High-Level Architecture Flowchart
+
+```
 ┌──────────────────────────────────────────────────────────┐
 │              Ticket and knowledge sources               │
 │                                                          │
@@ -49,8 +52,15 @@ Here are the rendered ASCII diagrams for the three Mermaid diagrams found in the
   │   Worker   │ (Approved Plan Execution)                  
   └────────────┘                                            
 
+```
+
 (Source)
-2. Agent Workflow (LangGraph State Diagram)
+
+---
+
+### 2. Agent Workflow (LangGraph State Diagram)
+
+```
        ┌──────────┐
        │ [*] Start│
        └────┬─────┘
@@ -127,8 +137,15 @@ Here are the rendered ASCII diagrams for the three Mermaid diagrams found in the
   │      │ [*] │
   │      └─────┘
 
+```
+
 (Source)
-3. Deterministic Guardrails Decision Flowchart
+
+---
+
+### 3. Deterministic Guardrails Decision Flowchart
+
+```
         ┌────────────────────────────────┐
         │     Tool Call from Agent       │
         └───────────────┬────────────────┘
@@ -187,5 +204,7 @@ Here are the rendered ASCII diagrams for the three Mermaid diagrams found in the
 ┌────────────────────────────────┐
 │    Log & Return to Agent       │
 └────────────────────────────────┘
+
+```
 
 (Source)
